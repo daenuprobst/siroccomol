@@ -11,47 +11,39 @@ The name is a nod to the sirocco, the hot Mediterranean wind.
 
 ## Gallery
 
-Each entry shows David Goodsell's official illustration (RCSB PDB-101, [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)) next to siroccomol's own render — matte (Goodsell-style) on the left, cel (illustration-style) on the right. Click our render for the turntable video.
-
-**GroEL/GroES chaperonin · [1AON](https://www.rcsb.org/structure/1AON)** — [video](gallery/1AON_spin.mp4)
+**GroEL/GroES chaperonin · [1AON](https://www.rcsb.org/structure/1AON)**, [video](gallery/1AON_spin.mp4)
 
 <table><tr>
-<td><img src="gallery/goodsell/1AON_goodsell.png" width="240"><br><sub>D. S. Goodsell & RCSB PDB, <a href="https://pdb101.rcsb.org/motm/32">MotM 32</a></sub></td>
 <td><a href="gallery/1AON_spin.mp4"><img src="gallery/1AON.png"></a></td>
 </tr></table>
 
-**20S proteasome · [1PMA](https://www.rcsb.org/structure/1PMA)** — [video](gallery/1PMA_spin.mp4)
+**20S proteasome · [1PMA](https://www.rcsb.org/structure/1PMA)**, [video](gallery/1PMA_spin.mp4)
 
 <table><tr>
-<td><img src="gallery/goodsell/1PMA_goodsell.png" width="240"><br><sub>D. S. Goodsell & RCSB PDB, <a href="https://pdb101.rcsb.org/motm/166">MotM 166</a></sub></td>
 <td><a href="gallery/1PMA_spin.mp4"><img src="gallery/1PMA.png"></a></td>
 </tr></table>
 
-**SARS-CoV-2 spike · [6VXX](https://www.rcsb.org/structure/6VXX)** — [video](gallery/6VXX_spin.mp4)
+**SARS-CoV-2 spike · [6VXX](https://www.rcsb.org/structure/6VXX)**, [video](gallery/6VXX_spin.mp4)
 
 <table><tr>
-<td><img src="gallery/goodsell/6VXX_goodsell.png" width="240"><br><sub>D. S. Goodsell & RCSB PDB, <a href="https://pdb101.rcsb.org/motm/246">MotM 246</a></sub></td>
 <td><a href="gallery/6VXX_spin.mp4"><img src="gallery/6VXX.png"></a></td>
 </tr></table>
 
-**Immunoglobulin · [1IGT](https://www.rcsb.org/structure/1IGT)** — [video](gallery/1IGT_spin.mp4)
+**Immunoglobulin · [1IGT](https://www.rcsb.org/structure/1IGT)**, [video](gallery/1IGT_spin.mp4)
 
 <table><tr>
-<td><img src="gallery/goodsell/1IGT_goodsell.png" width="240"><br><sub>D. S. Goodsell & RCSB PDB, <a href="https://pdb101.rcsb.org/motm/21">MotM 21</a></sub></td>
 <td><a href="gallery/1IGT_spin.mp4"><img src="gallery/1IGT.png"></a></td>
 </tr></table>
 
-**Haemoglobin · [4HHB](https://www.rcsb.org/structure/4HHB)** — [video](gallery/4HHB_spin.mp4)
+**Haemoglobin · [4HHB](https://www.rcsb.org/structure/4HHB)**, [video](gallery/4HHB_spin.mp4)
 
 <table><tr>
-<td><img src="gallery/goodsell/4HHB_goodsell.png" width="240"><br><sub>D. S. Goodsell & RCSB PDB, <a href="https://pdb101.rcsb.org/motm/41">MotM 41</a></sub></td>
 <td><a href="gallery/4HHB_spin.mp4"><img src="gallery/4HHB.png"></a></td>
 </tr></table>
 
-**Green fluorescent protein · [1GFL](https://www.rcsb.org/structure/1GFL)** — [video](gallery/1GFL_spin.mp4)
+**Green fluorescent protein · [1GFL](https://www.rcsb.org/structure/1GFL)**, [video](gallery/1GFL_spin.mp4)
 
 <table><tr>
-<td><img src="gallery/goodsell/1GFL_goodsell.png" width="240"><br><sub>D. S. Goodsell & RCSB PDB, <a href="https://pdb101.rcsb.org/motm/42">MotM 42</a></sub></td>
 <td><a href="gallery/1GFL_spin.mp4"><img src="gallery/1GFL.png"></a></td>
 </tr></table>
 
